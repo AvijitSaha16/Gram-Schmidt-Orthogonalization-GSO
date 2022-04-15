@@ -1,1 +1,1 @@
-# Gram-Schmidt-Orthogonalization-GSO
+# Gram-Schmidt-Orthonormalization-GSO
