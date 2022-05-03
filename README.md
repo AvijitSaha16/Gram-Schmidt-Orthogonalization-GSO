@@ -16,4 +16,4 @@ The tolerance is a level (with default value 10<sup>-8</sup>) depending on which
 
 ## Visualisation
 
-This GSO process works on R<sup>n</sup> for any finite natural number n but visualisation of this process can be done only till R<sup>3</sup>(i.e. 3D). So [here](Visualisation-in-3D/Gram-Schmidt_process.gif) is a visualisation for n = 3.
+This GSO process works on R<sup>n</sup> for any finite natural number n but visualisation of this process can be done only till R<sup>3</sup>(i.e. 3D). So [here](Visualisation-in-3D/Gram-Schmidt_process.gif) is a visualisation for n = 3 in gif format.
